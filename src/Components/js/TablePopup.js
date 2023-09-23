@@ -31,7 +31,7 @@ function TablePopup({setTablePopup,tablePopup,setSelectedTable}) {
 
 
     useEffect(() => {
-        const url = "/TableStatus.json";
+        const url = "/RestaurantWebsite_App/TableStatus.json";
         axios
           .get(url)
           .then((response) => {

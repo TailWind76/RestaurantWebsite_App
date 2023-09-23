@@ -59,10 +59,10 @@
         "ProductCategory":"Beefsteak",
         "ProductGallery":[
                 {
-                    "image1":"RestaurantWebsite_App/images/BBQ/CarolinaPorkBBQ1.jpg",
-                    "image2":"RestaurantWebsite_App/images/BBQ/CarolinaPorkBBQ2.jpg",
-                    "image3":"RestaurantWebsite_App/images/BBQ/CarolinaPorkBBQ3.jpg",
-                    "image4":"RestaurantWebsite_App/images/BBQ/CarolinaPorkBBQ4.jpg"
+                    "image1":"/RestaurantWebsite_App/images/BBQ/CarolinaPorkBBQ1.jpg",
+                    "image2":"/RestaurantWebsite_App/images/BBQ/CarolinaPorkBBQ2.jpg",
+                    "image3":"/RestaurantWebsite_App/images/BBQ/CarolinaPorkBBQ3.jpg",
+                    "image4":"/RestaurantWebsite_App/images/BBQ/CarolinaPorkBBQ4.jpg"
                 }      
         ],
         "ProductPrice":"30$"
@@ -74,10 +74,10 @@
         "ProductCategory":"Beefsteak",
         "ProductGallery":[
                 {
-                    "image1":"/images/BBQ/MemphisStyleRibs1.jpg",
-                    "image2":"/images/BBQ/MemphisStyleRibs2.jpg",
-                    "image3":"/images/BBQ/MemphisStyleRibs3.jpg",
-                    "image4":"/images/BBQ/MemphisStyleRibs4.jpg"
+                    "image1":"/RestaurantWebsite_App/images/BBQ/MemphisStyleRibs1.jpg",
+                    "image2":"/RestaurantWebsite_App/images/BBQ/MemphisStyleRibs2.jpg",
+                    "image3":"/RestaurantWebsite_App/images/BBQ/MemphisStyleRibs3.jpg",
+                    "image4":"/RestaurantWebsite_App/images/BBQ/MemphisStyleRibs4.jpg"
                 }      
         ],
         "ProductPrice":"76$"
@@ -89,10 +89,10 @@
         "ProductCategory":"Beefsteak",
         "ProductGallery":[
                 {
-                    "image1":"/images/BBQ/KansasCityStyleRibs1.jpg",
-                    "image2":"/images/BBQ/KansasCityStyleRibs2.jpg",
-                    "image3":"/images/BBQ/KansasCityStyleRibs3.jpg",
-                    "image4":"/images/BBQ/KansasCityStyleRibs4.jpg"
+                    "image1":"/RestaurantWebsite_App/images/BBQ/KansasCityStyleRibs1.jpg",
+                    "image2":"/RestaurantWebsite_App/images/BBQ/KansasCityStyleRibs2.jpg",
+                    "image3":"/RestaurantWebsite_App/images/BBQ/KansasCityStyleRibs3.jpg",
+                    "image4":"/RestaurantWebsite_App/images/BBQ/KansasCityStyleRibs4.jpg"
                 }      
         ],
         "ProductPrice":"24$"
@@ -103,10 +103,10 @@
     "ProductCategory":"Sushi",
     "ProductGallery":[
             {
-                "image1":"/images/Sushi/Chirashi1.jpg",
-                "image2":"/images/Sushi/Chirashi2.jpg",
-                "image3":"/images/Sushi/Chirashi3.jpg",
-                "image4":"/images/Sushi/Chirashi4.jpg"
+                "image1":"/RestaurantWebsite_App/images/Sushi/Chirashi1.jpg",
+                "image2":"/RestaurantWebsite_App/images/Sushi/Chirashi2.jpg",
+                "image3":"/RestaurantWebsite_App/images/Sushi/Chirashi3.jpg",
+                "image4":"/RestaurantWebsite_App/images/Sushi/Chirashi4.jpg"
             }      
     ],
     "ProductPrice":"15$"
@@ -120,10 +120,10 @@
     "ProductCategory":"Sushi",
     "ProductGallery":[
             {
-                "image1":"/images/Sushi/Maki1.webp",
-                "image2":"/images/Sushi/Maki2.jpg",
-                "image3":"/images/Sushi/Maki3.webp",
-                "image4":"/images/Sushi/Maki4.jpg"
+                "image1":"/RestaurantWebsite_App/images/Sushi/Maki1.webp",
+                "image2":"/RestaurantWebsite_App/images/Sushi/Maki2.jpg",
+                "image3":"/RestaurantWebsite_App/images/Sushi/Maki3.webp",
+                "image4":"/RestaurantWebsite_App/images/Sushi/Maki4.jpg"
             }      
     ],
     "ProductPrice":"25$"
@@ -141,10 +141,10 @@
     "ProductCategory":"Sushi",
     "ProductGallery":[
             {
-                "image1":"/images/Sushi/nigiri1.webp",
-                "image2":"/images/Sushi/nigiri2.jpg",
-                "image3":"/images/Sushi/nigiri3.jpg",
-                "image4":"/images/Sushi/nigiri4.webp"
+                "image1":"/RestaurantWebsite_App/images/Sushi/nigiri1.webp",
+                "image2":"/RestaurantWebsite_App/images/Sushi/nigiri2.jpg",
+                "image3":"/RestaurantWebsite_App/images/Sushi/nigiri3.jpg",
+                "image4":"/RestaurantWebsite_App/images/Sushi/nigiri4.webp"
             }      
     ],
     "ProductPrice":"44$"
@@ -157,10 +157,10 @@
     "ProductCategory":"Sushi",
     "ProductGallery":[
             {
-                "image1":"/images/Sushi/sashimi1.jpg",
-                "image2":"/images/Sushi/sashimi2.jpg",
-                "image3":"/images/Sushi/sashimi3.webp",
-                "image4":"/images/Sushi/sashimi4.jpg"
+                "image1":"/RestaurantWebsite_App/images/Sushi/sashimi1.jpg",
+                "image2":"/RestaurantWebsite_App/images/Sushi/sashimi2.jpg",
+                "image3":"/RestaurantWebsite_App/images/Sushi/sashimi3.webp",
+                "image4":"/RestaurantWebsite_App/images/Sushi/sashimi4.jpg"
             }      
     ],
     "ProductPrice":"30$"
@@ -172,10 +172,10 @@
     "ProductCategory":"Sushi",
     "ProductGallery":[
             {
-                "image1":"/images/Sushi/Temaki1.jpg",
-                "image2":"/images/Sushi/Temaki2.jpg",
-                "image3":"/images/Sushi/Temaki3.jpg",
-                "image4":"/images/Sushi/Temaki4.jpg"
+                "image1":"/RestaurantWebsite_App/images/Sushi/Temaki1.jpg",
+                "image2":"/RestaurantWebsite_App/images/Sushi/Temaki2.jpg",
+                "image3":"/RestaurantWebsite_App/images/Sushi/Temaki3.jpg",
+                "image4":"/RestaurantWebsite_App/images/Sushi/Temaki4.jpg"
             }      
     ],
     "ProductPrice":"76$"
@@ -187,10 +187,10 @@
     "ProductCategory":"Sushi",
     "ProductGallery":[
             {
-                "image1":"/images/Sushi/Uramaki1.webp",
-                "image2":"/images/Sushi/Uramaki2.jpg",
-                "image3":"/images/Sushi/Uramaki3.jpg",
-                "image4":"/images/Sushi/Uramaki4.jpg"
+                "image1":"/RestaurantWebsite_App/images/Sushi/Uramaki1.webp",
+                "image2":"/RestaurantWebsite_App/images/Sushi/Uramaki2.jpg",
+                "image3":"/RestaurantWebsite_App/images/Sushi/Uramaki3.jpg",
+                "image4":"/RestaurantWebsite_App/images/Sushi/Uramaki4.jpg"
             }      
     ],
     "ProductPrice":"24$"
@@ -202,10 +202,10 @@
 "ProductCategory":"Chicken&Pork",
 "ProductGallery":[
         {
-            "image1":"/images/Pork & Chicken/ChickenBreast1.webp",
-            "image2":"/images/Pork & Chicken/ChickenBreast2.jpg",
-            "image3":"/images/Pork & Chicken/ChickenBreast3.jpg",
-            "image4":"/images/Pork & Chicken/ChickenBreast4.jpg"
+            "image1":"/RestaurantWebsite_App/images/Pork & Chicken/ChickenBreast1.webp",
+            "image2":"/RestaurantWebsite_App/images/Pork & Chicken/ChickenBreast2.jpg",
+            "image3":"/RestaurantWebsite_App/images/Pork & Chicken/ChickenBreast3.jpg",
+            "image4":"/RestaurantWebsite_App/images/Pork & Chicken/ChickenBreast4.jpg"
         }      
 ],
 "ProductPrice":"15$"
@@ -219,10 +219,10 @@
 "ProductCategory":"Chicken&Pork",
 "ProductGallery":[
         {
-            "image1":"/images/Pork & Chicken/ChickenThigh1.jpg",
-            "image2":"/images/Pork & Chicken/ChickenThigh2.jpg",
-            "image3":"/images/Pork & Chicken/ChickenThigh3.jpg",
-            "image4":"/images/Pork & Chicken/ChickenThigh4.jpg"
+            "image1":"/RestaurantWebsite_App/images/Pork & Chicken/ChickenThigh1.jpg",
+            "image2":"/RestaurantWebsite_App/images/Pork & Chicken/ChickenThigh2.jpg",
+            "image3":"/RestaurantWebsite_App/images/Pork & Chicken/ChickenThigh3.jpg",
+            "image4":"/RestaurantWebsite_App/images/Pork & Chicken/ChickenThigh4.jpg"
         }      
 ],
 "ProductPrice":"25$"
@@ -240,10 +240,10 @@
 "ProductCategory":"Chicken&Pork",
 "ProductGallery":[
         {
-            "image1":"/images/Pork & Chicken/ChickenWing1.jpg",
-            "image2":"/images/Pork & Chicken/ChickenWing2.jpg",
-            "image3":"/images/Pork & Chicken/ChickenWing3.jpg",
-            "image4":"/images/Pork & Chicken/ChickenWing4.jpg"
+            "image1":"/RestaurantWebsite_App/images/Pork & Chicken/ChickenWing1.jpg",
+            "image2":"/RestaurantWebsite_App/images/Pork & Chicken/ChickenWing2.jpg",
+            "image3":"/RestaurantWebsite_App/images/Pork & Chicken/ChickenWing3.jpg",
+            "image4":"/RestaurantWebsite_App/images/Pork & Chicken/ChickenWing4.jpg"
         }      
 ],
 "ProductPrice":"44$"
@@ -256,10 +256,10 @@
 "ProductCategory":"Chicken&Pork",
 "ProductGallery":[
         {
-            "image1":"/images/Pork & Chicken/PorkBelly1.webp",
-            "image2":"/images/Pork & Chicken/PorkBelly2.jpg",
-            "image3":"/images/Pork & Chicken/PorkBelly3.jpg",
-            "image4":"/images/Pork & Chicken/PorkBelly4.jpg"
+            "image1":"/RestaurantWebsite_App/images/Pork & Chicken/PorkBelly1.webp",
+            "image2":"/RestaurantWebsite_App/images/Pork & Chicken/PorkBelly2.jpg",
+            "image3":"/RestaurantWebsite_App/images/Pork & Chicken/PorkBelly3.jpg",
+            "image4":"/RestaurantWebsite_App/images/Pork & Chicken/PorkBelly4.jpg"
         }      
 ],
 "ProductPrice":"30$"
@@ -271,10 +271,10 @@
 "ProductCategory":"Chicken&Pork",
 "ProductGallery":[
         {
-            "image1":"/images/Pork & Chicken/PorkChop1.jpg",
-            "image2":"/images/Pork & Chicken/PorkChop2.jpg",
-            "image3":"/images/Pork & Chicken/PorkChop3.webp",
-            "image4":"/images/Pork & Chicken/PorkChop4.webp"
+            "image1":"/RestaurantWebsite_App/images/Pork & Chicken/PorkChop1.jpg",
+            "image2":"/RestaurantWebsite_App/images/Pork & Chicken/PorkChop2.jpg",
+            "image3":"/RestaurantWebsite_App/images/Pork & Chicken/PorkChop3.webp",
+            "image4":"/RestaurantWebsite_App/images/Pork & Chicken/PorkChop4.webp"
         }      
 ],
 "ProductPrice":"76$"
@@ -286,10 +286,10 @@
 "ProductCategory":"Chicken&Pork",
 "ProductGallery":[
         {
-            "image1":"/images/Pork & Chicken/PorkTenderloin1.webp",
-            "image2":"/images/Pork & Chicken/PorkTenderloin2.jpg",
-            "image3":"/images/Pork & Chicken/PorkTenderloin3.jpg",
-            "image4":"/images/Pork & Chicken/PorkTenderloin4.webp"
+            "image1":"/RestaurantWebsite_App/images/Pork & Chicken/PorkTenderloin1.webp",
+            "image2":"/RestaurantWebsite_App/images/Pork & Chicken/PorkTenderloin2.jpg",
+            "image3":"/RestaurantWebsite_App/images/Pork & Chicken/PorkTenderloin3.jpg",
+            "image4":"/RestaurantWebsite_App/images/Pork & Chicken/PorkTenderloin4.webp"
         }      
 ],
 "ProductPrice":"24$"
@@ -301,10 +301,10 @@
 "ProductCategory":"RiceBowl",
 "ProductGallery":[
         {
-            "image1":"/images/Rice Bowl/BeefBowl1.jpg",
-            "image2":"/images/Rice Bowl/BeefBowl2.jpg",
-            "image3":"/images/Rice Bowl/BeefBowl3.jpg",
-            "image4":"/images/Rice Bowl/BeefBowl4.jpg"
+            "image1":"/RestaurantWebsite_App/images/Rice Bowl/BeefBowl1.jpg",
+            "image2":"/RestaurantWebsite_App/images/Rice Bowl/BeefBowl2.jpg",
+            "image3":"/RestaurantWebsite_App/images/Rice Bowl/BeefBowl3.jpg",
+            "image4":"/RestaurantWebsite_App/images/Rice Bowl/BeefBowl4.jpg"
         }      
 ],
 "ProductPrice":"15$"
@@ -318,10 +318,10 @@
 "ProductCategory":"RiceBowl",
 "ProductGallery":[
         {
-            "image1":"/images/Rice Bowl/Salmon1.jpg",
-            "image2":"/images/Rice Bowl/Salmon2.jpg",
-            "image3":"/images/Rice Bowl/Salmon3.jpg",
-            "image4":"/images/Rice Bowl/Salmon4.jpg"
+            "image1":"/RestaurantWebsite_App/images/Rice Bowl/Salmon1.jpg",
+            "image2":"/RestaurantWebsite_App/images/Rice Bowl/Salmon2.jpg",
+            "image3":"/RestaurantWebsite_App/images/Rice Bowl/Salmon3.jpg",
+            "image4":"/RestaurantWebsite_App/images/Rice Bowl/Salmon4.jpg"
         }      
 ],
 "ProductPrice":"25$"
@@ -339,10 +339,10 @@
 "ProductCategory":"RiceBowl",
 "ProductGallery":[
         {
-            "image1":"/images/Rice Bowl/ShrimpBowl1.jpg",
-            "image2":"/images/Rice Bowl/ShrimpBowl2.jpg",
-            "image3":"/images/Rice Bowl/ShrimpBowl3.jpg",
-            "image4":"/images/Rice Bowl/ShrimpBowl4.webp"
+            "image1":"/RestaurantWebsite_App/images/Rice Bowl/ShrimpBowl1.jpg",
+            "image2":"/RestaurantWebsite_App/images/Rice Bowl/ShrimpBowl2.jpg",
+            "image3":"/RestaurantWebsite_App/images/Rice Bowl/ShrimpBowl3.jpg",
+            "image4":"/RestaurantWebsite_App/images/Rice Bowl/ShrimpBowl4.webp"
         }      
 ],
 "ProductPrice":"44$"
@@ -355,10 +355,10 @@
 "ProductCategory":"RiceBowl",
 "ProductGallery":[
         {
-            "image1":"/images/Rice Bowl/SushiBowl1.jpg",
-            "image2":"/images/Rice Bowl/SushiBowl2.jpg",
-            "image3":"/images/Rice Bowl/SushiBowl3.jpg",
-            "image4":"/images/Rice Bowl/SushiBowl4.jpg"
+            "image1":"/RestaurantWebsite_App/images/Rice Bowl/SushiBowl1.jpg",
+            "image2":"/RestaurantWebsite_App/images/Rice Bowl/SushiBowl2.jpg",
+            "image3":"/RestaurantWebsite_App/images/Rice Bowl/SushiBowl3.jpg",
+            "image4":"/RestaurantWebsite_App/images/Rice Bowl/SushiBowl4.jpg"
         }      
 ],
 "ProductPrice":"30$"
@@ -370,10 +370,10 @@
 "ProductCategory":"RiceBowl",
 "ProductGallery":[
         {
-            "image1":"/images/Rice Bowl/Teriyaki1.webp",
-            "image2":"/images/Rice Bowl/Teriyaki2.webp",
-            "image3":"/images/Rice Bowl/Teriyaki3.jpg",
-            "image4":"/images/Rice Bowl/Teriyaki4.jpg"
+            "image1":"/RestaurantWebsite_App/images/Rice Bowl/Teriyaki1.webp",
+            "image2":"/RestaurantWebsite_App/images/Rice Bowl/Teriyaki2.webp",
+            "image3":"/RestaurantWebsite_App/images/Rice Bowl/Teriyaki3.jpg",
+            "image4":"/RestaurantWebsite_App/images/Rice Bowl/Teriyaki4.jpg"
         }      
 ],
 "ProductPrice":"46$"
@@ -385,10 +385,10 @@
 "ProductCategory":"RiceBowl",
 "ProductGallery":[
         {
-            "image1":"/images/Rice Bowl/TofuBowl1.webp",
-            "image2":"/images/Rice Bowl/TofuBowl2.webp",
-            "image3":"/images/Rice Bowl/TofuBowl3.jpg",
-            "image4":"/images/Rice Bowl/TofuBowl4.jpg"
+            "image1":"/RestaurantWebsite_App/images/Rice Bowl/TofuBowl1.webp",
+            "image2":"/RestaurantWebsite_App/images/Rice Bowl/TofuBowl2.webp",
+            "image3":"/RestaurantWebsite_App/images/Rice Bowl/TofuBowl3.jpg",
+            "image4":"/RestaurantWebsite_App/images/Rice Bowl/TofuBowl4.jpg"
         }      
 ],
 "ProductPrice":"19$"
@@ -401,10 +401,10 @@
 "ProductCategory":"Noodles",
 "ProductGallery":[
         {
-            "image1":"/images/Noodles/LoMein1.jpg",
-            "image2":"/images/Noodles/LoMein2.jpg",
-            "image3":"/images/Noodles/LoMein3.jpg",
-            "image4":"/images/Noodles/LoMein4.jpg"
+            "image1":"/RestaurantWebsite_App/images/Noodles/LoMein1.jpg",
+            "image2":"/RestaurantWebsite_App/images/Noodles/LoMein2.jpg",
+            "image3":"/RestaurantWebsite_App/images/Noodles/LoMein3.jpg",
+            "image4":"/RestaurantWebsite_App/images/Noodles/LoMein4.jpg"
         }      
 ],
 "ProductPrice":"15$"
@@ -418,10 +418,10 @@
 "ProductCategory":"Noodles",
 "ProductGallery":[
         {
-            "image1":"/images/Noodles/PadThai1.jpg",
-            "image2":"/images/Noodles/PadThai2.jpg",
-            "image3":"/images/Noodles/PadThai3.jpg",
-            "image4":"/images/Noodles/PadThai4.jpg"
+            "image1":"/RestaurantWebsite_App/images/Noodles/PadThai1.jpg",
+            "image2":"/RestaurantWebsite_App/images/Noodles/PadThai2.jpg",
+            "image3":"/RestaurantWebsite_App/images/Noodles/PadThai3.jpg",
+            "image4":"/RestaurantWebsite_App/images/Noodles/PadThai4.jpg"
         }      
 ],
 "ProductPrice":"25$"
@@ -439,10 +439,10 @@
 "ProductCategory":"Noodles",
 "ProductGallery":[
         {
-            "image1":"/images/Noodles/Pho1.jpg",
-            "image2":"/images/Noodles/Pho2.jpg",
-            "image3":"/images/Noodles/Pho3.jpg",
-            "image4":"/images/Noodles/Pho4.jpg"
+            "image1":"/RestaurantWebsite_App/images/Noodles/Pho1.jpg",
+            "image2":"/RestaurantWebsite_App/images/Noodles/Pho2.jpg",
+            "image3":"/RestaurantWebsite_App/images/Noodles/Pho3.jpg",
+            "image4":"/RestaurantWebsite_App/images/Noodles/Pho4.jpg"
         }      
 ],
 "ProductPrice":"44$"
@@ -455,10 +455,10 @@
 "ProductCategory":"Noodles",
 "ProductGallery":[
         {
-            "image1":"/images/Noodles/ramen1.jpg",
-            "image2":"/images/Noodles/ramen2.jpg",
-            "image3":"/images/Noodles/ramen3.jpg",
-            "image4":"/images/Noodles/ramen4.jpg"
+            "image1":"/RestaurantWebsite_App/images/Noodles/ramen1.jpg",
+            "image2":"/RestaurantWebsite_App/images/Noodles/ramen2.jpg",
+            "image3":"/RestaurantWebsite_App/images/Noodles/ramen3.jpg",
+            "image4":"/RestaurantWebsite_App/images/Noodles/ramen4.jpg"
         }      
 ],
 "ProductPrice":"30$"
@@ -470,10 +470,10 @@
 "ProductCategory":"Noodles",
 "ProductGallery":[
         {
-            "image1":"/images/Noodles/Soba1.webp",
-            "image2":"/images/Noodles/Soba2.jpg",
-            "image3":"/images/Noodles/Soba3.jpg",
-            "image4":"/images/Noodles/Soba4.jpg"
+            "image1":"/RestaurantWebsite_App/images/Noodles/Soba1.webp",
+            "image2":"/RestaurantWebsite_App/images/Noodles/Soba2.jpg",
+            "image3":"/RestaurantWebsite_App/images/Noodles/Soba3.jpg",
+            "image4":"/RestaurantWebsite_App/images/Noodles/Soba4.jpg"
         }      
 ],
 "ProductPrice":"46$"
@@ -485,10 +485,10 @@
 "ProductCategory":"Noodles",
 "ProductGallery":[
         {
-            "image1":"/images/Noodles/udon1.jpg",
-            "image2":"/images/Noodles/udon2.webp",
-            "image3":"/images/Noodles/udon3.webp",
-            "image4":"/images/Noodles/udon4.jpg"
+            "image1":"/RestaurantWebsite_App/images/Noodles/udon1.jpg",
+            "image2":"/RestaurantWebsite_App/images/Noodles/udon2.webp",
+            "image3":"/RestaurantWebsite_App/images/Noodles/udon3.webp",
+            "image4":"/RestaurantWebsite_App/images/Noodles/udon4.jpg"
         }      
 ],
 "ProductPrice":"19$"
@@ -501,10 +501,10 @@
 "ProductCategory":"Drink",
 "ProductGallery":[
         {
-            "image1":"/images/Drink/Champagne1.jpg",
-            "image2":"/images/Drink/Champagne2.jpg",
-            "image3":"/images/Drink/Champagne3.webp",
-            "image4":"/images/Drink/Champagne4.jpg"
+            "image1":"/RestaurantWebsite_App/images/Drink/Champagne1.jpg",
+            "image2":"/RestaurantWebsite_App/images/Drink/Champagne2.jpg",
+            "image3":"/RestaurantWebsite_App/images/Drink/Champagne3.webp",
+            "image4":"/RestaurantWebsite_App/images/Drink/Champagne4.jpg"
         }      
 ],
 "ProductPrice":"15$"
@@ -518,10 +518,10 @@
 "ProductCategory":"Drink",
 "ProductGallery":[
         {
-            "image1":"/images/Drink/AperolSpritz1.jpg",
-            "image2":"/images/Drink/AperolSpritz2.jpg",
-            "image3":"/images/Drink/AperolSpritz3.jpg",
-            "image4":"/images/Drink/AperolSpritz4.jpg"
+            "image1":"/RestaurantWebsite_App/images/Drink/AperolSpritz1.jpg",
+            "image2":"/RestaurantWebsite_App/images/Drink/AperolSpritz2.jpg",
+            "image3":"/RestaurantWebsite_App/images/Drink/AperolSpritz3.jpg",
+            "image4":"/RestaurantWebsite_App/images/Drink/AperolSpritz4.jpg"
         }      
 ],
 "ProductPrice":"25$"
@@ -539,10 +539,10 @@
 "ProductCategory":"Drink",
 "ProductGallery":[
         {
-            "image1":"/images/Drink/Martini1.jpg",
-            "image2":"/images/Drink/Martini2.jpg",
-            "image3":"/images/Drink/Martini3.webp",
-            "image4":"/images/Drink/Martini4.webp"
+            "image1":"/RestaurantWebsite_App/images/Drink/Martini1.jpg",
+            "image2":"/RestaurantWebsite_App/images/Drink/Martini2.jpg",
+            "image3":"/RestaurantWebsite_App/images/Drink/Martini3.webp",
+            "image4":"/RestaurantWebsite_App/images/Drink/Martini4.webp"
         }      
 ],
 "ProductPrice":"44$"
@@ -555,10 +555,10 @@
 "ProductCategory":"Drink",
 "ProductGallery":[
         {
-            "image1":"/images/Drink/Mojito1.jpg",
-            "image2":"/images/Drink/Mojito2.webp",
-            "image3":"/images/Drink/Mojito3.jpg",
-            "image4":"/images/Drink/Mojito4.jpg"
+            "image1":"/RestaurantWebsite_App/images/Drink/Mojito1.jpg",
+            "image2":"/RestaurantWebsite_App/images/Drink/Mojito2.webp",
+            "image3":"/RestaurantWebsite_App/images/Drink/Mojito3.jpg",
+            "image4":"/RestaurantWebsite_App/images/Drink/Mojito4.jpg"
         }      
 ],
 "ProductPrice":"30$"
@@ -570,10 +570,10 @@
 "ProductCategory":"Drink",
 "ProductGallery":[
         {
-            "image1":"/images/Drink/PinaColada1.webp",
-            "image2":"/images/Drink/PinaColada2.jpg",
-            "image3":"/images/Drink/PinaColada3.jpg",
-            "image4":"/images/Drink/PinaColada4.jpg"
+            "image1":"/RestaurantWebsite_App/images/Drink/PinaColada1.webp",
+            "image2":"/RestaurantWebsite_App/images/Drink/PinaColada2.jpg",
+            "image3":"/RestaurantWebsite_App/images/Drink/PinaColada3.jpg",
+            "image4":"/RestaurantWebsite_App/images/Drink/PinaColada4.jpg"
         }      
 ],
 "ProductPrice":"46$"
@@ -585,10 +585,10 @@
 "ProductCategory":"Drink",
 "ProductGallery":[
         {
-            "image1":"/images/Drink/Sake1.jpg",
-            "image2":"/images/Drink/Sake2.jpg",
-            "image3":"/images/Drink/Sake3.png",
-            "image4":"/images/Drink/Sake4.jpg"
+            "image1":"/RestaurantWebsite_App/images/Drink/Sake1.jpg",
+            "image2":"/RestaurantWebsite_App/images/Drink/Sake2.jpg",
+            "image3":"/RestaurantWebsite_App/images/Drink/Sake3.png",
+            "image4":"/RestaurantWebsite_App/images/Drink/Sake4.jpg"
         }      
 ],
 "ProductPrice":"19$"
@@ -602,10 +602,10 @@
     "ProductCategory":"Soup",
     "ProductGallery":[
             {
-                "image1":"/images/Soup/ChickenNoodle Soup1.webp",
-                "image2":"/images/Soup/ChickenNoodle Soup2.jpg",
-                "image3":"/images/Soup/ChickenNoodle Soup3.webp",
-                "image4":"/images/Soup/ChickenNoodle Soup4.jpg"
+                "image1":"/RestaurantWebsite_App/images/Soup/ChickenNoodle Soup1.webp",
+                "image2":"/RestaurantWebsite_App/images/Soup/ChickenNoodle Soup2.jpg",
+                "image3":"/RestaurantWebsite_App/images/Soup/ChickenNoodle Soup3.webp",
+                "image4":"/RestaurantWebsite_App/images/Soup/ChickenNoodle Soup4.jpg"
             }      
     ],
     "ProductPrice":"19$"
@@ -618,10 +618,10 @@
     "ProductCategory":"Soup",
     "ProductGallery":[
             {
-                "image1":"/images/Soup/ClamChowderSoup1.jpg",
-                "image2":"/images/Soup/ClamChowderSoup2.jpg",
-                "image3":"/images/Soup/ClamChowderSoup3.jpg",
-                "image4":"/images/Soup/ClamChowderSoup4.jpg"
+                "image1":"/RestaurantWebsite_App/images/Soup/ClamChowderSoup1.jpg",
+                "image2":"/RestaurantWebsite_App/images/Soup/ClamChowderSoup2.jpg",
+                "image3":"/RestaurantWebsite_App/images/Soup/ClamChowderSoup3.jpg",
+                "image4":"/RestaurantWebsite_App/images/Soup/ClamChowderSoup4.jpg"
             }      
     ],
     "ProductPrice":"15$"
@@ -635,10 +635,10 @@
     "ProductCategory":"Soup",
     "ProductGallery":[
             {
-                "image1":"/images/Soup/FrenchOnion Soup1.jpg",
-                "image2":"/images/Soup/FrenchOnion Soup2.webp",
-                "image3":"/images/Soup/FrenchOnion Soup3.jpg",
-                "image4":"/images/Soup/FrenchOnion Soup4.jpg"
+                "image1":"/RestaurantWebsite_App/images/Soup/FrenchOnion Soup1.jpg",
+                "image2":"/RestaurantWebsite_App/images/Soup/FrenchOnion Soup2.webp",
+                "image3":"/RestaurantWebsite_App/images/Soup/FrenchOnion Soup3.jpg",
+                "image4":"/RestaurantWebsite_App/images/Soup/FrenchOnion Soup4.jpg"
             }      
     ],
     "ProductPrice":"25$"
@@ -656,10 +656,10 @@
     "ProductCategory":"Soup",
     "ProductGallery":[
             {
-                "image1":"/images/Soup/Gazpacho1.jpg",
-                "image2":"/images/Soup/Gazpacho2.jpg",
-                "image3":"/images/Soup/Gazpacho3.webp",
-                "image4":"/images/Soup/Gazpacho4.jpg"
+                "image1":"/RestaurantWebsite_App/images/Soup/Gazpacho1.jpg",
+                "image2":"/RestaurantWebsite_App/images/Soup/Gazpacho2.jpg",
+                "image3":"/RestaurantWebsite_App/images/Soup/Gazpacho3.webp",
+                "image4":"/RestaurantWebsite_App/images/Soup/Gazpacho4.jpg"
             }      
     ],
     "ProductPrice":"44$"
@@ -672,10 +672,10 @@
     "ProductCategory":"Soup",
     "ProductGallery":[
             {
-                "image1":"/images/Soup/MinestroneSoup1.jpg",
-                "image2":"/images/Soup/MinestroneSoup2.jpg",
-                "image3":"/images/Soup/MinestroneSoup3.jpg",
-                "image4":"/images/Soup/MinestroneSoup4.jpg"
+                "image1":"/RestaurantWebsite_App/images/Soup/MinestroneSoup1.jpg",
+                "image2":"/RestaurantWebsite_App/images/Soup/MinestroneSoup2.jpg",
+                "image3":"/RestaurantWebsite_App/images/Soup/MinestroneSoup3.jpg",
+                "image4":"/RestaurantWebsite_App/images/Soup/MinestroneSoup4.jpg"
             }      
     ],
     "ProductPrice":"30$"
@@ -687,10 +687,10 @@
     "ProductCategory":"Soup",
     "ProductGallery":[
             {
-                "image1":"/images/Soup/TomatoSoup1.jpg",
-                "image2":"/images/Soup/TomatoSoup2.jpg",
-                "image3":"/images/Soup/TomatoSoup3.jpg",
-                "image4":"/images/Soup/TomatoSoup4.jpg"
+                "image1":"/RestaurantWebsite_App/images/Soup/TomatoSoup1.jpg",
+                "image2":"/RestaurantWebsite_App/images/Soup/TomatoSoup2.jpg",
+                "image3":"/RestaurantWebsite_App/images/Soup/TomatoSoup3.jpg",
+                "image4":"/RestaurantWebsite_App/images/Soup/TomatoSoup4.jpg"
             }      
     ],
     "ProductPrice":"46$"
