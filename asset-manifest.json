@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RestaurantWebsite_App/static/css/main.69b55f9e.css",
-    "main.js": "/RestaurantWebsite_App/static/js/main.45fc0f41.js",
+    "main.js": "/RestaurantWebsite_App/static/js/main.f1978538.js",
     "static/js/787.28cb0dcd.chunk.js": "/RestaurantWebsite_App/static/js/787.28cb0dcd.chunk.js",
     "static/media/00008.png": "/RestaurantWebsite_App/static/media/00008.6f0bd8fe1f5782f2de0e.png",
     "static/media/wasabi.png": "/RestaurantWebsite_App/static/media/wasabi.b21a371a887ef502a614.png",
@@ -47,11 +47,11 @@
     "index.html": "/RestaurantWebsite_App/index.html",
     "static/media/plus.svg": "/RestaurantWebsite_App/static/media/plus.71cc17e302325ef8df300adb9b460de9.svg",
     "main.69b55f9e.css.map": "/RestaurantWebsite_App/static/css/main.69b55f9e.css.map",
-    "main.45fc0f41.js.map": "/RestaurantWebsite_App/static/js/main.45fc0f41.js.map",
+    "main.f1978538.js.map": "/RestaurantWebsite_App/static/js/main.f1978538.js.map",
     "787.28cb0dcd.chunk.js.map": "/RestaurantWebsite_App/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69b55f9e.css",
-    "static/js/main.45fc0f41.js"
+    "static/js/main.f1978538.js"
   ]
 }
