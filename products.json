@@ -5,10 +5,10 @@
         "ProductCategory":"Beefsteak",
         "ProductGallery":[
                 {
-                    "image1":"RestaurantWebsite_App/images/BBQ/CoreSteak1.webp",
-                    "image2":"RestaurantWebsite_App/images/BBQ/CoreSteak2.jpg",
-                    "image3":"RestaurantWebsite_App/images/BBQ/CoreSteak3.jpg",
-                    "image4":"RestaurantWebsite_App/images/BBQ/CoreSteak4.jpg"
+                    "image1":"/RestaurantWebsite_App/images/BBQ/CoreSteak1.webp",
+                    "image2":"/RestaurantWebsite_App/images/BBQ/CoreSteak2.jpg",
+                    "image3":"/RestaurantWebsite_App/images/BBQ/CoreSteak3.jpg",
+                    "image4":"/RestaurantWebsite_App/images/BBQ/CoreSteak4.jpg"
                 }      
         ],
         "ProductPrice":"30$"
@@ -59,10 +59,10 @@
         "ProductCategory":"Beefsteak",
         "ProductGallery":[
                 {
-                    "image1":"/images/BBQ/CarolinaPorkBBQ1.jpg",
-                    "image2":"/images/BBQ/CarolinaPorkBBQ2.jpg",
-                    "image3":"/images/BBQ/CarolinaPorkBBQ3.jpg",
-                    "image4":"/images/BBQ/CarolinaPorkBBQ4.jpg"
+                    "image1":"RestaurantWebsite_App/images/BBQ/CarolinaPorkBBQ1.jpg",
+                    "image2":"RestaurantWebsite_App/images/BBQ/CarolinaPorkBBQ2.jpg",
+                    "image3":"RestaurantWebsite_App/images/BBQ/CarolinaPorkBBQ3.jpg",
+                    "image4":"RestaurantWebsite_App/images/BBQ/CarolinaPorkBBQ4.jpg"
                 }      
         ],
         "ProductPrice":"30$"
