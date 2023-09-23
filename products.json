@@ -22,10 +22,10 @@
         "ProductCategory":"Beefsteak",
         "ProductGallery":[
                 {
-                    "image1":"RestaurantWebsite_App/images/BBQ/BeefBBQPremium1.jpg",
-                    "image2":"RestaurantWebsite_App/images/BBQ/BeefBBQPremium2.jpg",
-                    "image3":"RestaurantWebsite_App/images/BBQ/BeefBBQPremium3.jpg",
-                    "image4":"RestaurantWebsite_App/images/BBQ/BeefBBQPremium4.jpg"
+                    "image1":"/RestaurantWebsite_App/images/BBQ/BeefBBQPremium1.jpg",
+                    "image2":"/RestaurantWebsite_App/images/BBQ/BeefBBQPremium2.jpg",
+                    "image3":"/RestaurantWebsite_App/images/BBQ/BeefBBQPremium3.jpg",
+                    "image4":"/RestaurantWebsite_App/images/BBQ/BeefBBQPremium4.jpg"
                 }      
         ],
         "ProductPrice":"25$"
@@ -43,10 +43,10 @@
         "ProductCategory":"Beefsteak",
         "ProductGallery":[
                 {
-                    "image1":"/images/BBQ/BeefTomatoSteak1.jpg",
-                    "image2":"/images/BBQ/BeefTomatoSteak2.jpg",
-                    "image3":"/images/BBQ/BeefTomatoSteak3.jpg",
-                    "image4":"/images/BBQ/BeefTomatoSteak4.jpg"
+                    "image1":"https://tailwind76.github.io/RestaurantWebsite_App/images/BBQ/BeefTomatoSteak1.jpg",
+                    "image2":"https://tailwind76.github.io/RestaurantWebsite_App/images/images/BBQ/BeefTomatoSteak2.jpg",
+                    "image3":"https://tailwind76.github.io/RestaurantWebsite_App/images/images/BBQ/BeefTomatoSteak3.jpg",
+                    "image4":"https://tailwind76.github.io/RestaurantWebsite_App/images/images/BBQ/BeefTomatoSteak4.jpg"
                 }      
         ],
         "ProductPrice":"44$"
