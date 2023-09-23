@@ -1,0 +1,113 @@
+{
+    "tables": [
+      {
+        "tableNumber": "Table 1",
+        "capacity": 4,
+        "description": "Cozy corner table by the window",
+        "freeTime": [
+          {
+            "date": "2023-09-25",
+            "timeSlots": ["18:00", "20:00"]
+          },
+          {
+            "date": "2023-09-26",
+            "timeSlots": ["19:30", "21:30"]
+          }
+        ]
+      },
+      {
+        "tableNumber": "Table 2",
+        "capacity": 6,
+        "description": "Large family table in the center",
+        "freeTime": [
+          {
+            "date": "2023-09-25",
+            "timeSlots": ["17:30", "19:30", "21:00"]
+          },
+          {
+            "date": "2023-09-27",
+            "timeSlots": ["20:00", "22:00"]
+          }
+        ]
+      },
+
+      {
+        "tableNumber": "Table 3",
+        "capacity": 6,
+        "description": "Large family table in the center",
+        "freeTime": [
+          {
+            "date": "2023-09-25",
+            "timeSlots": ["17:30", "19:30", "21:00"]
+          },
+          {
+            "date": "2023-09-27",
+            "timeSlots": ["20:00", "22:00"]
+          }
+        ]
+      },
+
+
+      {
+        "tableNumber": "Table 4",
+        "capacity": 6,
+        "description": "Large family table in the center",
+        "freeTime": [
+          {
+            "date": "2023-09-21",
+            "timeSlots": ["17:30", "19:30", "21:00","23:00"]
+          },
+          {
+            "date": "2023-09-27",
+            "timeSlots": ["20:00", "22:00"]
+          }
+        ]
+      },
+      {
+        "tableNumber": "Table 5",
+        "capacity": 6,
+        "description": "Large family table in the center",
+        "freeTime": [
+          {
+            "date": "2023-09-25",
+            "timeSlots": ["17:30", "19:30", "21:00"]
+          },
+          {
+            "date": "2023-09-27",
+            "timeSlots": ["20:00", "22:00"]
+          }
+        ]
+      },
+      {
+        "tableNumber": "Table 6",
+        "capacity": 6,
+        "description": "Large family table in the center",
+        "freeTime": [
+          {
+            "date": "2023-09-22",
+            "timeSlots": ["17:30", "19:30", "21:00"]
+          },
+          {
+            "date": "2023-09-27",
+            "timeSlots": ["20:00", "22:00"]
+          }
+        ]
+      },
+      {
+        "tableNumber": "Table 7",
+        "capacity": 2,
+        "description": "Intimate table for couples",
+        "freeTime": [
+          {
+            "date": "2023-09-25",
+            "timeSlots": ["19:00"]
+          },
+          {
+            "date": "2023-09-26",
+            "timeSlots": ["20:30"]
+          }
+        ]
+      }
+    ]
+  }
+  

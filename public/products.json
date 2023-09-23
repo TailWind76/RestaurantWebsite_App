@@ -1,0 +1,721 @@
+[
+    {
+        "id":1,
+        "ProductName":"Core Steak 200g",
+        "ProductCategory":"Beefsteak",
+        "ProductGallery":[
+                {
+                    "image1":"/RestaurantWebsite_App/images/BBQ/CoreSteak1.webp",
+                    "image2":"/RestaurantWebsite_App/images/BBQ/CoreSteak2.jpg",
+                    "image3":"/RestaurantWebsite_App/images/BBQ/CoreSteak3.jpg",
+                    "image4":"/RestaurantWebsite_App/images/BBQ/CoreSteak4.jpg"
+                }      
+        ],
+        "ProductPrice":"30$"
+    }
+    ,
+
+
+    {
+        "id":2,
+        "ProductName":"Beef BBQ Premium",
+        "ProductCategory":"Beefsteak",
+        "ProductGallery":[
+                {
+                    "image1":"/RestaurantWebsite_App/images/BBQ/BeefBBQPremium1.jpg",
+                    "image2":"/RestaurantWebsite_App/images/BBQ/BeefBBQPremium2.jpg",
+                    "image3":"/RestaurantWebsite_App/images/BBQ/BeefBBQPremium3.jpg",
+                    "image4":"/RestaurantWebsite_App/images/BBQ/BeefBBQPremium4.jpg"
+                }      
+        ],
+        "ProductPrice":"25$"
+    }
+
+
+
+
+    ,
+
+
+    {
+        "id":3,
+        "ProductName":"Beef Steak Tomato",
+        "ProductCategory":"Beefsteak",
+        "ProductGallery":[
+                {
+                    "image1":"https://tailwind76.github.io/RestaurantWebsite_App/images/BBQ/BeefTomatoSteak1.jpg",
+                    "image2":"https://tailwind76.github.io/RestaurantWebsite_App/images/images/BBQ/BeefTomatoSteak2.jpg",
+                    "image3":"https://tailwind76.github.io/RestaurantWebsite_App/images/images/BBQ/BeefTomatoSteak3.jpg",
+                    "image4":"https://tailwind76.github.io/RestaurantWebsite_App/images/images/BBQ/BeefTomatoSteak4.jpg"
+                }      
+        ],
+        "ProductPrice":"44$"
+    }
+    ,
+
+    {
+        "id":4,
+        "ProductName":"Carolina Pork BBQ",
+        "ProductCategory":"Beefsteak",
+        "ProductGallery":[
+                {
+                    "image1":"RestaurantWebsite_App/images/BBQ/CarolinaPorkBBQ1.jpg",
+                    "image2":"RestaurantWebsite_App/images/BBQ/CarolinaPorkBBQ2.jpg",
+                    "image3":"RestaurantWebsite_App/images/BBQ/CarolinaPorkBBQ3.jpg",
+                    "image4":"RestaurantWebsite_App/images/BBQ/CarolinaPorkBBQ4.jpg"
+                }      
+        ],
+        "ProductPrice":"30$"
+    }
+    ,
+    {
+        "id":5,
+        "ProductName":"Memphis Style Ribs ",
+        "ProductCategory":"Beefsteak",
+        "ProductGallery":[
+                {
+                    "image1":"/images/BBQ/MemphisStyleRibs1.jpg",
+                    "image2":"/images/BBQ/MemphisStyleRibs2.jpg",
+                    "image3":"/images/BBQ/MemphisStyleRibs3.jpg",
+                    "image4":"/images/BBQ/MemphisStyleRibs4.jpg"
+                }      
+        ],
+        "ProductPrice":"76$"
+    }
+    ,
+    {
+        "id":6,
+        "ProductName":"Kansas City Style Ribs",
+        "ProductCategory":"Beefsteak",
+        "ProductGallery":[
+                {
+                    "image1":"/images/BBQ/KansasCityStyleRibs1.jpg",
+                    "image2":"/images/BBQ/KansasCityStyleRibs2.jpg",
+                    "image3":"/images/BBQ/KansasCityStyleRibs3.jpg",
+                    "image4":"/images/BBQ/KansasCityStyleRibs4.jpg"
+                }      
+        ],
+        "ProductPrice":"24$"
+    }
+,{
+    "id":7,
+    "ProductName":"Chirashi Sushi",
+    "ProductCategory":"Sushi",
+    "ProductGallery":[
+            {
+                "image1":"/images/Sushi/Chirashi1.jpg",
+                "image2":"/images/Sushi/Chirashi2.jpg",
+                "image3":"/images/Sushi/Chirashi3.jpg",
+                "image4":"/images/Sushi/Chirashi4.jpg"
+            }      
+    ],
+    "ProductPrice":"15$"
+}
+,
+
+
+{
+    "id":8,
+    "ProductName":"Maki Sushi",
+    "ProductCategory":"Sushi",
+    "ProductGallery":[
+            {
+                "image1":"/images/Sushi/Maki1.webp",
+                "image2":"/images/Sushi/Maki2.jpg",
+                "image3":"/images/Sushi/Maki3.webp",
+                "image4":"/images/Sushi/Maki4.jpg"
+            }      
+    ],
+    "ProductPrice":"25$"
+}
+
+
+
+
+,
+
+
+{
+    "id":9,
+    "ProductName":"Nigiri Sushi",
+    "ProductCategory":"Sushi",
+    "ProductGallery":[
+            {
+                "image1":"/images/Sushi/nigiri1.webp",
+                "image2":"/images/Sushi/nigiri2.jpg",
+                "image3":"/images/Sushi/nigiri3.jpg",
+                "image4":"/images/Sushi/nigiri4.webp"
+            }      
+    ],
+    "ProductPrice":"44$"
+}
+,
+
+{
+    "id":10,
+    "ProductName":"Sashimi ",
+    "ProductCategory":"Sushi",
+    "ProductGallery":[
+            {
+                "image1":"/images/Sushi/sashimi1.jpg",
+                "image2":"/images/Sushi/sashimi2.jpg",
+                "image3":"/images/Sushi/sashimi3.webp",
+                "image4":"/images/Sushi/sashimi4.jpg"
+            }      
+    ],
+    "ProductPrice":"30$"
+}
+,
+{
+    "id":11,
+    "ProductName":"Temaki",
+    "ProductCategory":"Sushi",
+    "ProductGallery":[
+            {
+                "image1":"/images/Sushi/Temaki1.jpg",
+                "image2":"/images/Sushi/Temaki2.jpg",
+                "image3":"/images/Sushi/Temaki3.jpg",
+                "image4":"/images/Sushi/Temaki4.jpg"
+            }      
+    ],
+    "ProductPrice":"76$"
+}
+,
+{
+    "id":12,
+    "ProductName":"Uramaki Sushi",
+    "ProductCategory":"Sushi",
+    "ProductGallery":[
+            {
+                "image1":"/images/Sushi/Uramaki1.webp",
+                "image2":"/images/Sushi/Uramaki2.jpg",
+                "image3":"/images/Sushi/Uramaki3.jpg",
+                "image4":"/images/Sushi/Uramaki4.jpg"
+            }      
+    ],
+    "ProductPrice":"24$"
+},
+
+{ 
+"id":13,
+"ProductName":"Chicken Breast",
+"ProductCategory":"Chicken&Pork",
+"ProductGallery":[
+        {
+            "image1":"/images/Pork & Chicken/ChickenBreast1.webp",
+            "image2":"/images/Pork & Chicken/ChickenBreast2.jpg",
+            "image3":"/images/Pork & Chicken/ChickenBreast3.jpg",
+            "image4":"/images/Pork & Chicken/ChickenBreast4.jpg"
+        }      
+],
+"ProductPrice":"15$"
+}
+,
+
+
+{
+"id":14,
+"ProductName":"Chicken Thigh",
+"ProductCategory":"Chicken&Pork",
+"ProductGallery":[
+        {
+            "image1":"/images/Pork & Chicken/ChickenThigh1.jpg",
+            "image2":"/images/Pork & Chicken/ChickenThigh2.jpg",
+            "image3":"/images/Pork & Chicken/ChickenThigh3.jpg",
+            "image4":"/images/Pork & Chicken/ChickenThigh4.jpg"
+        }      
+],
+"ProductPrice":"25$"
+}
+
+
+
+
+,
+
+
+{
+"id":15,
+"ProductName":"Chicken Wing",
+"ProductCategory":"Chicken&Pork",
+"ProductGallery":[
+        {
+            "image1":"/images/Pork & Chicken/ChickenWing1.jpg",
+            "image2":"/images/Pork & Chicken/ChickenWing2.jpg",
+            "image3":"/images/Pork & Chicken/ChickenWing3.jpg",
+            "image4":"/images/Pork & Chicken/ChickenWing4.jpg"
+        }      
+],
+"ProductPrice":"44$"
+}
+,
+
+{
+"id":16,
+"ProductName":"Pork Belly",
+"ProductCategory":"Chicken&Pork",
+"ProductGallery":[
+        {
+            "image1":"/images/Pork & Chicken/PorkBelly1.webp",
+            "image2":"/images/Pork & Chicken/PorkBelly2.jpg",
+            "image3":"/images/Pork & Chicken/PorkBelly3.jpg",
+            "image4":"/images/Pork & Chicken/PorkBelly4.jpg"
+        }      
+],
+"ProductPrice":"30$"
+}
+,
+{
+"id":17,
+"ProductName":"Pork Chop",
+"ProductCategory":"Chicken&Pork",
+"ProductGallery":[
+        {
+            "image1":"/images/Pork & Chicken/PorkChop1.jpg",
+            "image2":"/images/Pork & Chicken/PorkChop2.jpg",
+            "image3":"/images/Pork & Chicken/PorkChop3.webp",
+            "image4":"/images/Pork & Chicken/PorkChop4.webp"
+        }      
+],
+"ProductPrice":"76$"
+}
+,
+{
+"id":18,
+"ProductName":"Pork Tenderloin",
+"ProductCategory":"Chicken&Pork",
+"ProductGallery":[
+        {
+            "image1":"/images/Pork & Chicken/PorkTenderloin1.webp",
+            "image2":"/images/Pork & Chicken/PorkTenderloin2.jpg",
+            "image3":"/images/Pork & Chicken/PorkTenderloin3.jpg",
+            "image4":"/images/Pork & Chicken/PorkTenderloin4.webp"
+        }      
+],
+"ProductPrice":"24$"
+}
+,
+{ 
+"id":19,
+"ProductName":"Beef Bulgogi Rice Bowl",
+"ProductCategory":"RiceBowl",
+"ProductGallery":[
+        {
+            "image1":"/images/Rice Bowl/BeefBowl1.jpg",
+            "image2":"/images/Rice Bowl/BeefBowl2.jpg",
+            "image3":"/images/Rice Bowl/BeefBowl3.jpg",
+            "image4":"/images/Rice Bowl/BeefBowl4.jpg"
+        }      
+],
+"ProductPrice":"15$"
+}
+,
+
+
+{
+"id":20,
+"ProductName":"Salmon Poke Bowl",
+"ProductCategory":"RiceBowl",
+"ProductGallery":[
+        {
+            "image1":"/images/Rice Bowl/Salmon1.jpg",
+            "image2":"/images/Rice Bowl/Salmon2.jpg",
+            "image3":"/images/Rice Bowl/Salmon3.jpg",
+            "image4":"/images/Rice Bowl/Salmon4.jpg"
+        }      
+],
+"ProductPrice":"25$"
+}
+
+
+
+
+,
+
+
+{
+"id":21,
+"ProductName":"Shrimp Tempura Rice Bowl",
+"ProductCategory":"RiceBowl",
+"ProductGallery":[
+        {
+            "image1":"/images/Rice Bowl/ShrimpBowl1.jpg",
+            "image2":"/images/Rice Bowl/ShrimpBowl2.jpg",
+            "image3":"/images/Rice Bowl/ShrimpBowl3.jpg",
+            "image4":"/images/Rice Bowl/ShrimpBowl4.webp"
+        }      
+],
+"ProductPrice":"44$"
+}
+,
+
+{
+"id":22,
+"ProductName":"Vegetable Sushi Rice Bowl",
+"ProductCategory":"RiceBowl",
+"ProductGallery":[
+        {
+            "image1":"/images/Rice Bowl/SushiBowl1.jpg",
+            "image2":"/images/Rice Bowl/SushiBowl2.jpg",
+            "image3":"/images/Rice Bowl/SushiBowl3.jpg",
+            "image4":"/images/Rice Bowl/SushiBowl4.jpg"
+        }      
+],
+"ProductPrice":"30$"
+}
+,
+{
+"id":23,
+"ProductName":"Teriyaki Chicken Rice Bowl",
+"ProductCategory":"RiceBowl",
+"ProductGallery":[
+        {
+            "image1":"/images/Rice Bowl/Teriyaki1.webp",
+            "image2":"/images/Rice Bowl/Teriyaki2.webp",
+            "image3":"/images/Rice Bowl/Teriyaki3.jpg",
+            "image4":"/images/Rice Bowl/Teriyaki4.jpg"
+        }      
+],
+"ProductPrice":"46$"
+}
+,
+{
+"id":24,
+"ProductName":"Tofu and Quinoa Rice Bowl",
+"ProductCategory":"RiceBowl",
+"ProductGallery":[
+        {
+            "image1":"/images/Rice Bowl/TofuBowl1.webp",
+            "image2":"/images/Rice Bowl/TofuBowl2.webp",
+            "image3":"/images/Rice Bowl/TofuBowl3.jpg",
+            "image4":"/images/Rice Bowl/TofuBowl4.jpg"
+        }      
+],
+"ProductPrice":"19$"
+}
+,
+
+{ 
+"id":25,
+"ProductName":"Lo Mein ",
+"ProductCategory":"Noodles",
+"ProductGallery":[
+        {
+            "image1":"/images/Noodles/LoMein1.jpg",
+            "image2":"/images/Noodles/LoMein2.jpg",
+            "image3":"/images/Noodles/LoMein3.jpg",
+            "image4":"/images/Noodles/LoMein4.jpg"
+        }      
+],
+"ProductPrice":"15$"
+}
+,
+
+
+{
+"id":26,
+"ProductName":"Pad Thai",
+"ProductCategory":"Noodles",
+"ProductGallery":[
+        {
+            "image1":"/images/Noodles/PadThai1.jpg",
+            "image2":"/images/Noodles/PadThai2.jpg",
+            "image3":"/images/Noodles/PadThai3.jpg",
+            "image4":"/images/Noodles/PadThai4.jpg"
+        }      
+],
+"ProductPrice":"25$"
+}
+
+
+
+
+,
+
+
+{
+"id":27,
+"ProductName":"Pho",
+"ProductCategory":"Noodles",
+"ProductGallery":[
+        {
+            "image1":"/images/Noodles/Pho1.jpg",
+            "image2":"/images/Noodles/Pho2.jpg",
+            "image3":"/images/Noodles/Pho3.jpg",
+            "image4":"/images/Noodles/Pho4.jpg"
+        }      
+],
+"ProductPrice":"44$"
+}
+,
+
+{
+"id":28,
+"ProductName":"Ramen",
+"ProductCategory":"Noodles",
+"ProductGallery":[
+        {
+            "image1":"/images/Noodles/ramen1.jpg",
+            "image2":"/images/Noodles/ramen2.jpg",
+            "image3":"/images/Noodles/ramen3.jpg",
+            "image4":"/images/Noodles/ramen4.jpg"
+        }      
+],
+"ProductPrice":"30$"
+}
+,
+{
+"id":29,
+"ProductName":"Soba",
+"ProductCategory":"Noodles",
+"ProductGallery":[
+        {
+            "image1":"/images/Noodles/Soba1.webp",
+            "image2":"/images/Noodles/Soba2.jpg",
+            "image3":"/images/Noodles/Soba3.jpg",
+            "image4":"/images/Noodles/Soba4.jpg"
+        }      
+],
+"ProductPrice":"46$"
+}
+,
+{
+"id":30,
+"ProductName":"Udon ",
+"ProductCategory":"Noodles",
+"ProductGallery":[
+        {
+            "image1":"/images/Noodles/udon1.jpg",
+            "image2":"/images/Noodles/udon2.webp",
+            "image3":"/images/Noodles/udon3.webp",
+            "image4":"/images/Noodles/udon4.jpg"
+        }      
+],
+"ProductPrice":"19$"
+
+}
+,
+{ 
+"id":31,
+"ProductName":"Champagne  ",
+"ProductCategory":"Drink",
+"ProductGallery":[
+        {
+            "image1":"/images/Drink/Champagne1.jpg",
+            "image2":"/images/Drink/Champagne2.jpg",
+            "image3":"/images/Drink/Champagne3.webp",
+            "image4":"/images/Drink/Champagne4.jpg"
+        }      
+],
+"ProductPrice":"15$"
+}
+,
+
+
+{
+"id":32,
+"ProductName":"Aperol Spritz",
+"ProductCategory":"Drink",
+"ProductGallery":[
+        {
+            "image1":"/images/Drink/AperolSpritz1.jpg",
+            "image2":"/images/Drink/AperolSpritz2.jpg",
+            "image3":"/images/Drink/AperolSpritz3.jpg",
+            "image4":"/images/Drink/AperolSpritz4.jpg"
+        }      
+],
+"ProductPrice":"25$"
+}
+
+
+
+
+,
+
+
+{
+"id":33,
+"ProductName":"Martini",
+"ProductCategory":"Drink",
+"ProductGallery":[
+        {
+            "image1":"/images/Drink/Martini1.jpg",
+            "image2":"/images/Drink/Martini2.jpg",
+            "image3":"/images/Drink/Martini3.webp",
+            "image4":"/images/Drink/Martini4.webp"
+        }      
+],
+"ProductPrice":"44$"
+}
+,
+
+{
+"id":34,
+"ProductName":"Mojito",
+"ProductCategory":"Drink",
+"ProductGallery":[
+        {
+            "image1":"/images/Drink/Mojito1.jpg",
+            "image2":"/images/Drink/Mojito2.webp",
+            "image3":"/images/Drink/Mojito3.jpg",
+            "image4":"/images/Drink/Mojito4.jpg"
+        }      
+],
+"ProductPrice":"30$"
+}
+,
+{
+"id":35,
+"ProductName":"Pina Colada",
+"ProductCategory":"Drink",
+"ProductGallery":[
+        {
+            "image1":"/images/Drink/PinaColada1.webp",
+            "image2":"/images/Drink/PinaColada2.jpg",
+            "image3":"/images/Drink/PinaColada3.jpg",
+            "image4":"/images/Drink/PinaColada4.jpg"
+        }      
+],
+"ProductPrice":"46$"
+}
+,
+{
+"id":36,
+"ProductName":"Sake ",
+"ProductCategory":"Drink",
+"ProductGallery":[
+        {
+            "image1":"/images/Drink/Sake1.jpg",
+            "image2":"/images/Drink/Sake2.jpg",
+            "image3":"/images/Drink/Sake3.png",
+            "image4":"/images/Drink/Sake4.jpg"
+        }      
+],
+"ProductPrice":"19$"
+}
+,
+
+
+{
+    "id":37,
+    "ProductName":"Chicken Noodle Soup ",
+    "ProductCategory":"Soup",
+    "ProductGallery":[
+            {
+                "image1":"/images/Soup/ChickenNoodle Soup1.webp",
+                "image2":"/images/Soup/ChickenNoodle Soup2.jpg",
+                "image3":"/images/Soup/ChickenNoodle Soup3.webp",
+                "image4":"/images/Soup/ChickenNoodle Soup4.jpg"
+            }      
+    ],
+    "ProductPrice":"19$"
+    
+    }
+    ,
+    { 
+    "id":38,
+    "ProductName":"Clam ChowderSoup ",
+    "ProductCategory":"Soup",
+    "ProductGallery":[
+            {
+                "image1":"/images/Soup/ClamChowderSoup1.jpg",
+                "image2":"/images/Soup/ClamChowderSoup2.jpg",
+                "image3":"/images/Soup/ClamChowderSoup3.jpg",
+                "image4":"/images/Soup/ClamChowderSoup4.jpg"
+            }      
+    ],
+    "ProductPrice":"15$"
+    }
+    ,
+    
+    
+    {
+    "id":39,
+    "ProductName":"French Onion Soup",
+    "ProductCategory":"Soup",
+    "ProductGallery":[
+            {
+                "image1":"/images/Soup/FrenchOnion Soup1.jpg",
+                "image2":"/images/Soup/FrenchOnion Soup2.webp",
+                "image3":"/images/Soup/FrenchOnion Soup3.jpg",
+                "image4":"/images/Soup/FrenchOnion Soup4.jpg"
+            }      
+    ],
+    "ProductPrice":"25$"
+    }
+    
+    
+    
+    
+    ,
+    
+    
+    {
+    "id":40,
+    "ProductName":"Gazpacho",
+    "ProductCategory":"Soup",
+    "ProductGallery":[
+            {
+                "image1":"/images/Soup/Gazpacho1.jpg",
+                "image2":"/images/Soup/Gazpacho2.jpg",
+                "image3":"/images/Soup/Gazpacho3.webp",
+                "image4":"/images/Soup/Gazpacho4.jpg"
+            }      
+    ],
+    "ProductPrice":"44$"
+    }
+    ,
+    
+    {
+    "id":41,
+    "ProductName":"Minestrone Soup",
+    "ProductCategory":"Soup",
+    "ProductGallery":[
+            {
+                "image1":"/images/Soup/MinestroneSoup1.jpg",
+                "image2":"/images/Soup/MinestroneSoup2.jpg",
+                "image3":"/images/Soup/MinestroneSoup3.jpg",
+                "image4":"/images/Soup/MinestroneSoup4.jpg"
+            }      
+    ],
+    "ProductPrice":"30$"
+    }
+    ,
+    {
+    "id":42,
+    "ProductName":"Tomato Soup",
+    "ProductCategory":"Soup",
+    "ProductGallery":[
+            {
+                "image1":"/images/Soup/TomatoSoup1.jpg",
+                "image2":"/images/Soup/TomatoSoup2.jpg",
+                "image3":"/images/Soup/TomatoSoup3.jpg",
+                "image4":"/images/Soup/TomatoSoup4.jpg"
+            }      
+    ],
+    "ProductPrice":"46$"
+    }
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
