@@ -44,9 +44,9 @@
         "ProductGallery":[
                 {
                     "image1":"https://tailwind76.github.io/RestaurantWebsite_App/images/BBQ/BeefTomatoSteak1.jpg",
-                    "image2":"https://tailwind76.github.io/RestaurantWebsite_App/images/images/BBQ/BeefTomatoSteak2.jpg",
-                    "image3":"https://tailwind76.github.io/RestaurantWebsite_App/images/images/BBQ/BeefTomatoSteak3.jpg",
-                    "image4":"https://tailwind76.github.io/RestaurantWebsite_App/images/images/BBQ/BeefTomatoSteak4.jpg"
+                    "image2":"https://tailwind76.github.io/RestaurantWebsite_App/images/BBQ/BeefTomatoSteak2.jpg",
+                    "image3":"https://tailwind76.github.io/RestaurantWebsite_App/images/BBQ/BeefTomatoSteak3.jpg",
+                    "image4":"https://tailwind76.github.io/RestaurantWebsite_App/images/BBQ/BeefTomatoSteak4.jpg"
                 }      
         ],
         "ProductPrice":"44$"
