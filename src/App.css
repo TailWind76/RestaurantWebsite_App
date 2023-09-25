@@ -184,7 +184,7 @@ input:focus{
     display: flex;
     right: -10%;
     top: -15%;
-    height: 50%;
+    height: auto;
     width: 40%;
     border-radius: 50%;
     text-align: center;
@@ -416,6 +416,7 @@ h3{
     width:39%;
     height: 100%;
     float: right;
+    box-sizing: border-box;
 }
 
 .selected-option{
@@ -434,8 +435,8 @@ h3{
     margin: 0;
 }
 .product-order_name{
-    font-size: 4vh;
-    margin:0;
+    font-size: 3vh;
+    margin-bottom: 0;
 }
 
 .sauce-block{
@@ -573,7 +574,7 @@ font-size: 1.2em;
 .close-product-page{
     position: absolute;
     height: 8%;
-    width: 5%;
+    width: 4vw;
     right: 1%;
     top: 1%;
     display: flex;
@@ -590,7 +591,7 @@ font-size: 1.2em;
 
 .order-main{
     width: 100%;
-    height: 57%;
+    height: 50%;
     overflow: auto;
  
 }
@@ -859,8 +860,7 @@ font-size: 1.2em;
     justify-content: space-between;
     align-items: center;
     color: #a4a4a4;
-    font-size: 1.2em;
-    box-sizing: border-box;
+   box-sizing: border-box;
     padding: 2%;
 }
 .cart-header p{
@@ -1430,7 +1430,6 @@ input[type="date"]::-webkit-calendar-picker-indicator {
         width: 40%;
     }
     .product-order_name{
-        font-size: 2.5vh;
         width: 70%;
     }
     .cart-main{
@@ -1456,9 +1455,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
         font-size: 1.5vh;
     }
 
-    .close-product-page{
-        width: 8%; 
-    }
+  
     .place-order-btn p{
         font-size: 1.5vh;
     }
@@ -1469,9 +1466,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     .place-order-btn{
         width: 30%;
     }
-    .orderButton-count{
-        width: 60%;
-    }
+ 
 }
 
 
@@ -1597,6 +1592,9 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 @media screen and (max-width:700px) {
     .nav-bar{
         display: none;
+    }
+    .header-nav{
+        padding: 3%;
     }
     .main-content{
         width: 100%;
